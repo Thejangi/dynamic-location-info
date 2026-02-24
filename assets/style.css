@@ -1,0 +1,21 @@
+/* Social Icons Wrapper */
+.location-social-icons {
+    display: inline-flex;
+    gap: 22px;
+    align-items: center;
+    justify-content: left;
+  }
+  
+  /* Link Style */
+  .location-social-icons a {
+    font-size: 20px;
+    color: #ffffff !important;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  /* Optional: Icon Spacing */
+  .location-social-icons i {
+    display: inline-block;
+    vertical-align: middle;
+  }

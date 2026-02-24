@@ -1,0 +1,29 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependencies (if ever used)
+node_modules/
+vendor/
+
+# Build / cache
+dist/
+build/
+.cache/
+
+# Env
+.env
+.env.*
+
+# Local zip exports
+*.zip
+
+# WordPress local
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
